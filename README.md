@@ -3,8 +3,8 @@
 Repository ini dibuat untuk memenuhi Tugas Pertemuan 7 - Bahasa Pemrograman - Teknik Informatika - Universitas Pelita Bangsa<br>
 <hr>
 
-Nama : Febro Herdyanto<br>
-NIM : 312010043<br>
+Nama : Nur Rohmat A.S<br>
+NIM : 312010215<br>
 Kelas : TI.20.B.1<br>
 <hr>
 
